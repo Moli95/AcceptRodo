@@ -24,7 +24,7 @@ chrome://extensions/
 If you want to use this extension in private mode you must enable it in details of extension.
 
 ### Todos
- - Add more wbsities
+ - Add more websities
  - Add option to send requests with new websities
  - Many clicks on one website to accept rodo
  - Create tests
