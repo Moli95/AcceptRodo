@@ -1,0 +1,667 @@
+[{
+		"domain": "www.wp.pl",
+		"tag": "button",
+		"innerHTML": "PRZECHODZĘ DO&nbsp;SERWISU"
+	},
+	{
+		"domain": "www.onet.pl",
+		"tag": "button",
+		"innerHTML": "<span class=\"\">Przejdź do serwisu</span>"
+	},
+	{
+		"domain": "www.businessinsider.com.pl",
+		"tag": "span",
+		"innerHTML": "Przejdź do serwisu"
+	},
+	{
+		"domain": "www.autocentrum.pl",
+		"tag": "a",
+		"innerHTML": "Przejdź do serwisu"
+	},
+	{
+		"domain": "domodi.pl",
+		"tag": "button",
+		"innerHTML": "PRZECHODZĘ DO&nbsp;SERWISU"
+	},
+	{
+		"domain": "www.vinted.pl",
+		"tag": "span",
+		"innerHTML": "Zgadzam się"
+	},
+	{
+		"domain": "www.wyborcza.pl",
+		"tag": "p",
+		"innerHTML": "x"
+	},
+	{
+		"domain": "www.money.pl",
+		"tag": "button",
+		"innerHTML": "PRZECHODZĘ DO&nbsp;SERWISU"
+	},
+	{
+		"domain": "www.infor.pl",
+		"tag": "button",
+		"innerHTML": "Akceptuję pliki cookie"
+	},
+	{
+		"domain": "www.parenting.pl",
+		"tag": "button",
+		"innerHTML": "PRZECHODZĘ DO&nbsp;SERWISU"
+	},
+	{
+		"domain": "www.autokult.pl",
+		"tag": "button",
+		"innerHTML": "PRZECHODZĘ DO&nbsp;SERWISU"
+	},
+	{
+		"domain": "www.pons.com",
+		"tag": "a",
+		"innerHTML": "OK"
+	},
+	{
+		"domain": "www.eobuwie.com.pl",
+		"tag": "button",
+		"innerHTML": "Akceptuję"
+	},
+	{
+		"domain": "www.gazetaprawna.pl",
+		"tag": "button",
+		"innerHTML": "Akceptuję pliki cookie"
+	},
+	{
+		"domain": "www.filmweb.pl",
+		"tag": "button",
+		"innerHTML": "Rozumiem"
+	},
+	{
+		"domain": "www.thesimsresource.com",
+		"tag": "button",
+		"innerHTML": " I accept "
+	},
+	{
+		"domain": "ingbank.pl",
+		"tag": "span",
+		"innerHTML": "Zaakceptuj"
+	},
+	{
+		"domain": "www.herozerogame.com",
+		"tag": "a",
+		"innerHTML": "Zamknij"
+	},
+	{
+		"domain": "www.dziennik.pl",
+		"tag": "button",
+		"innerHTML": "Akceptuję pliki cookie"
+	},
+	{
+		"domain": "www.9gag.com",
+		"tag": "span",
+		"innerHTML": "Got it, thanks!"
+	},
+	{
+		"domain": "www.polki.pl",
+		"tag": "a",
+		"innerHTML": "Przejdź do serwisu"
+	},
+	{
+		"domain": "www.allegro.pl",
+		"tag": "button",
+		"innerHTML": "przejdź dalej"
+	},
+	{
+		"domain": "www.yahoo.com",
+		"tag": "input",
+		"innerHTML": "OK"
+	},
+	{
+		"domain": "www.yandex.ru",
+		"tag": "div",
+		"innerHTML": "Got it"
+	},
+	{
+		"domain": "www.pudelek.pl",
+		"tag": "button",
+		"innerHTML": "PRZECHODZĘ DO&nbsp;SERWISU"
+	},
+	{
+		"domain": "www.o2.pl",
+		"tag": "button",
+		"innerHTML": "PRZECHODZĘ DO&nbsp;SERWISU"
+	},
+	{
+		"domain": "www.aliexpress.com",
+		"tag": "a",
+		"innerHTML": "x"
+	},
+	{
+		"domain": "www.wordpress.com",
+		"tag": "a",
+		"innerHTML": "Got It!"
+	},
+	{
+		"domain": "www.plejada.pl",
+		"tag": "span",
+		"innerHTML": "Przejdź do serwisu"
+	},
+	{
+		"domain": "www.fakt.pl",
+		"tag": "span",
+		"innerHTML": "Przejdź do serwisu"
+	},
+	{
+		"domain": "www.wiocha.pl",
+		"tag": "div",
+		"innerHTML": "AKCEPTUJĘ"
+	},
+	{
+		"domain": "www.telegraaf.nl",
+		"tag": "input",
+		"innerHTML": "Akkoord en naar telegraaf.nl"
+	},
+	{
+		"domain": "www.nrc.nl",
+		"tag": "button",
+		"innerHTML": "Akkoord"
+	},
+	{
+		"domain": "www.tvgids.nl/",
+		"tag": "a",
+		"innerHTML": "Akkoord"
+	},
+	{
+		"domain": "www.ad.nl",
+		"tag": "a",
+		"innerHTML": "Ja, ik accepteer cookies"
+	},
+	{
+		"domain": "www.buienradar.nl",
+		"tag": "a",
+		"innerHTML": "Is goed, toon de popup"
+	},
+	{
+		"domain": "www.tweakers.net",
+		"tag": "button",
+		"innerHTML": "Ja, ik accepteer cookies"
+	},
+	{
+		"domain": "www.nos.nl",
+		"tag": "div",
+		"innerHTML": "AKCEPTUJĘ"
+	},
+	{
+		"domain": "cookies.rtlnieuws.nl",
+		"tag": "input",
+		"innerHTML": "Ja, ik ga akkoord"
+	},
+	{
+		"domain": "www.startpagina.nl",
+		"tag": "a",
+		"innerHTML": "Akkoord"
+	},
+	{
+		"domain": "kudtkoekiewet.nl",
+		"tag": "a",
+		"innerHTML": "<span>Ja,</span> door hier te klikken ga ik akkoord met de cookies"
+	},
+	{
+		"domain": "www.weeronline.nl",
+		"tag": "button",
+		"innerHTML": "Oké, ga door"
+	},
+	{
+		"domain": "www.marktplaats.nl",
+		"tag": "button",
+		"innerHTML": "Ja, ik ga akkoord"
+	},
+	{
+		"domain": "www.volkskrant.nl",
+		"tag": "a",
+		"innerHTML": "Ja, ik accepteer cookies"
+	},
+	{
+		"domain": "www.ekstrabladet.dk",
+		"tag": "button",
+		"innerHTML": " OK "
+	},
+	{
+		"domain": "www.dr.dk",
+		"tag": "a",
+		"innerHTML": " OK "
+	},
+	{
+		"domain": "www.bt.dk",
+		"tag": "a",
+		"innerHTML": " OK "
+	},
+	{
+		"domain": "www.dtu.dk",
+		"tag": "a",
+		"innerHTML": "Om Cookies"
+	},
+	{
+		"domain": "www.ebay.com",
+		"tag": "button",
+		"innerHTML": "Accept"
+	},
+	{
+		"domain": "politiken.dk",
+		"tag": "button",
+		"innerHTML": " OK "
+	},
+	{
+		"domain": "www.emu.dk",
+		"tag": "span",
+		"innerHTML": "Accepter cookies"
+	},
+	{
+		"domain": "www.e-boks.com",
+		"tag": "a",
+		"innerHTML": "OK"
+	},
+	{
+		"domain": "www.au.dk",
+		"tag": "a",
+		"innerHTML": "Acceptér og luk"
+	},
+	{
+		"domain": "www.ku.dk",
+		"tag": "a",
+		"innerHTML": "Accepter cookies"
+	},
+	{
+		"domain": "www.reddit.com",
+		"tag": "button",
+		"innerHTML": "I Agree"
+	},
+	{
+		"domain": "www.dba.dk",
+		"tag": "button",
+		"innerHTML": "Accepter"
+	},
+	{
+		"domain": "www.wowhead.com",
+		"tag": "button",
+		"innerHTML": "Continue Using Site"
+	},
+	{
+		"domain": "tv2.dk",
+		"tag": "button",
+		"innerHTML": "OK"
+	},
+	{
+		"domain": "www.interia.pl",
+		"tag": "button",
+		"innerHTML": "Przejdź do serwisu"
+	},
+	{
+		"domain": "www.dailymail.co.uk",
+		"tag": "button",
+		"innerHTML": "Got it"
+	},
+	{
+		"domain": "wpolityce.pl",
+		"tag": "button",
+		"innerHTML": "Zgadzam się i przechodzę do serwisu"
+	},
+	{
+		"domain": "cdn.images.express.co.uk",
+		"tag": "a",
+		"innerHTML": "accept-all"
+	},
+	{
+		"domain": "www.accuweather.com",
+		"tag": "button",
+		"innerHTML": "<p class=\"fc-button-label\">Allow</p><p class=\"fc-button-description\">Free with ads</p>"
+	},
+	{
+		"domain": "myprivacy.persgroep.net",
+		"tag": "button",
+		"innerHTML": "Verder naar website",
+		"value": "accept-all"
+	},
+	{
+		"domain": "consent.yahoo.com",
+		"tag": "button",
+		"value": "agree"
+	},
+	{
+		"domain": "www.bt.com",
+		"tag": "button",
+		"innerHTML": "OK"
+	},
+	{
+		"domain": "www.buzzfeed.com",
+		"tag": "button",
+		"innerHTML": "I accept"
+	},
+	{
+		"domain": "www.cosmopolitan.com",
+		"tag": "button",
+		"innerHTML": "Accept"
+	},
+	{
+		"domain": "www.digitalspy.com",
+		"tag": "button",
+		"innerHTML": "Accept"
+	},
+	{
+		"domain": "www.fandom.com",
+		"tag": "div",
+		"innerHTML": "ACCEPT ADVERTISING COOKIES"
+	},
+	{
+		"domain": "consent-pref.trustarc.com",
+		"tag": "a",
+		"innerHTML": "I Agree, Continue to Site"
+	},
+	{
+		"domain": "www.givemesport.com",
+		"tag": "button",
+		"innerHTML": "AGREE"
+	},
+	{
+		"domain": "www.independent.ie",
+		"tag": "button",
+		"innerHTML": "I accept"
+	},
+	{
+		"domain": "www.instyle.com",
+		"tag": "input",
+		"value": "Continue"
+	},
+	{
+		"domain": "metro.co.uk",
+		"tag": "button",
+		"innerHTML": "Got it"
+	},
+	{
+		"domain": "www.nme.com",
+		"tag": "button",
+		"innerHTML": "I accept"
+	},
+	{
+		"domain": "pinchofnom.com",
+		"tag": "button",
+		"innerHTML": "<span class=\"\">Accept</span>"
+	},
+	{
+		"domain": "science.howstuffworks.com",
+		"tag": "button",
+		"innerHTML": "<span class=\"\">Got it</span>"
+	},
+	{
+		"domain": "www.shortlist.com",
+		"tag": "button",
+		"innerHTML": "I accept"
+	},
+	{
+		"domain": "www.techradar.com",
+		"tag": "button",
+		"innerHTML": "I ACCEPT"
+	},
+	{
+		"domain": "www.webmd.com",
+		"tag": "button",
+		"innerHTML": "I AGREE"
+	},
+	{
+		"domain": "www.fcbarca.com",
+		"tag": "a",
+		"innerHTML": "Akceptuję"
+	},
+	{
+		"domain": "fishki.pl",
+		"tag": "button",
+		"innerHTML": "Przejdź do serwisu"
+	},
+	{
+		"domain": "m.fishki.pl",
+		"tag": "button",
+		"innerHTML": "Przejdź do serwisu"
+	},
+	{
+		"domain": "fotka.com",
+		"tag": "button",
+		"innerHTML": "Zaakceptuj wszystko"
+	},
+	{
+		"domain": "www.fronda.pl",
+		"tag": "button",
+		"innerHTML": "Zaakceptuj wszystko"
+	},
+
+	{
+		"domain": "www.gry.pl",
+		"tag": "button",
+		"innerHTML": "<span class=\"\">Accept</span>"
+	},
+	{
+		"domain": "www.homebook.pl",
+		"tag": "button",
+		"innerHTML": "PRZECHODZĘ DO&nbsp;SERWISU"
+	},
+	{
+		"domain": "jastrzabpost.pl",
+		"tag": "button",
+		"innerHTML": "Kontynuuj z zalecanymi plikami cookie",
+		"value": "agree"
+	},
+
+	{
+		"domain": "jbzdy.pl",
+		"tag": "button",
+		"innerHTML": "Zaakceptuj wszystko"
+	},
+	{
+		"domain": "www.lublin112.pl",
+		"tag": "button",
+		"innerHTML": "Przejdź do serwisu"
+	},
+	{
+		"domain": "www.mobafire.com",
+		"tag": "button",
+		"innerHTML": "Continue Using Site"
+	},
+	{
+		"domain": "nk.pl",
+		"tag": "button",
+		"innerHTML": "<span class=\"\">Przejdź do serwisu</span>"
+	},
+	{
+		"domain": "www.pomponik.pl",
+		"tag": "button",
+		"innerHTML": "Przejdź do serwisu"
+	},
+	{
+		"domain": "www.popularne.pl",
+		"tag": "button",
+		"innerHTML": "Kontynuuj z zalecanymi plikami cookie"
+	},
+	{
+		"domain": "www.przyslijprzepis.pl",
+		"tag": "button",
+		"innerHTML": "Zgadzam się"
+	},
+	{
+		"domain": "www.radiozet.pl",
+		"tag": "button",
+		"innerHTML": "Przejdź do serwisu"
+	},
+	{
+		"domain": "repostuj.pl",
+		"tag": "button",
+		"innerHTML": "Akceptuję"
+	},
+	{
+		"domain": "www.telemagazyn.pl",
+		"tag": "a",
+		"innerHTML": "Przejdź do serwisu"
+	},
+	{
+		"domain": "www.tvp.pl",
+		"tag": "div",
+		"innerHTML": "Akceptuję"
+	},
+	{
+		"domain": "wiadomosci.wp.pl",
+		"tag": "button",
+		"innerHTML": "PRZECHODZĘ DO&nbsp;SERWISU"
+	},
+	{
+		"domain": "wyznajemy.pl",
+		"tag": "button",
+		"innerHTML": "Zaakceptuj wszystko"
+	},
+	{
+		"domain": "www.antena3.ro",
+		"tag": "a",
+		"innerHTML": "DA, ACCEPT"
+	},
+	{
+		"domain": "www.digi24.ro",
+		"tag": "div",
+		"innerHTML": "Da, accept"
+	},
+	{
+		"domain": "www.libertatea.ro",
+		"tag": "button",
+		"innerHTML": "Da, am ințeles"
+	},
+	{
+		"domain": "www.vice.com",
+		"tag": "button",
+		"innerHTML": "I Accept"
+	},
+	{
+		"domain": "www.ziare.com",
+		"tag": "button",
+		"innerHTML": "OK"
+	},
+	{
+		"domain": "guce.oath.com",
+		"tag": "button",
+		"innerHTML": "OK",
+		"value": "agree"
+	},
+	{
+		"domain": "www.nieuwsblad.be",
+		"tag": "button",
+		"innerHTML": "Ja, ik aanvaard de voorwaarden "
+	},
+	{
+		"domain": "www.standaard.be",
+		"tag": "button",
+		"innerHTML": "Ja, ik aanvaard de voorwaarden "
+	},
+	{
+		"domain": "www.agame.com",
+		"tag": "span",
+		"innerHTML": "Accept"
+	},
+	{
+		"domain": "www.challenges.fr",
+		"tag": "button",
+		"innerHTML": " J'accepte "
+	},
+	{
+		"domain": "www.dailymotion.com",
+		"tag": "span",
+		"innerHTML": "Accept"
+	},
+	{
+		"domain": "www.meteofrance.com",
+		"tag": "button",
+		"innerHTML": "J'accepte"
+	},
+	{
+		"domain": "www.orange.fr",
+		"tag": "a",
+		"innerHTML": "Accepter",
+		"value": ""
+	},
+	{
+		"domain": "www.xe.com",
+		"tag": "button",
+		"innerHTML": "OK"
+	},
+	{
+		"domain": "forbes.com",
+		"tag": "a",
+		"innerHTML": "I Agree, Continue to Site",
+		"value": ""
+	},
+	{
+		"domain": "headcramp.com",
+		"tag": "button",
+		"innerHTML": " Accept ",
+		"value": ""
+	},
+	{
+		"domain": "www.healthline.com",
+		"tag": "span",
+		"innerHTML": "ACCEPT AND CONTINUE TO SITE"
+	},
+	{
+		"domain": "www.ibtimes.co.uk",
+		"tag": "button",
+		"innerHTML": "<span>Agree &amp; Close</span>"
+	},
+	{
+		"domain": "news.sky.com",
+		"tag": "button",
+		"innerHTML": "Accept",
+		"value": ""
+	},
+	{
+		"domain": "www.radiotimes.com",
+		"tag": "button",
+		"innerHTML": " OK ",
+		"value": ""
+	},
+	{
+		"domain": "www.wikia.com",
+		"tag": "div",
+		"innerHTML": "ACCEPT ADVERTISING COOKIES"
+	},
+	{
+		"domain": "www.hasznaltauto.hu",
+		"tag": "a",
+		"innerHTML": " OK ",
+		"value": "",
+		"id": "CybotCookiebotDialogBodyButtonAccept"
+	},
+	{
+		"domain": "www.jofogas.hu",
+		"tag": "a",
+		"innerHTML": " OK ",
+		"value": "",
+		"id": "CybotCookiebotDialogBodyButtonAccept"
+	},
+	{
+		"domain": "www.sadistic.pl",
+		"tag": "button",
+		"innerHTML": "<span class=\"\">Zaakceptuj wszystko</span>",
+		"value": "",
+		"id": ""
+	},
+	{
+		"domain": "portal.abczdrowie.pl",
+		"tag": "button",
+		"innerHTML": "PRZECHODZĘ DO&nbsp;SERWISU"
+	},
+	{
+		"domain": "infozdrowie24.pl",
+		"tag": "p",
+		"innerHTML": "x"
+	},
+	{
+		"domain": "www.geenstijl.nl",
+		"tag": "button",
+		"innerHTML": "<span>Ja,</span> door hier te klikken ga ik akkoord met de cookies"
+	},
+	{
+		"domain": "cookies.buienradar.nl",
+		"tag": "input",
+		"value": "Ja, ik ga akkoord"
+	}
+]
